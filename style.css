@@ -1,0 +1,58 @@
+body{
+  margin-bottom: 2em rgb(28 69 135);
+}
+
+.header{
+  background: rgb(28 69 135);
+  margin: -2rem 0 0 0;
+  text-align: center;
+  color: white;
+  font-size: 24pt;
+  font-family: 'Roboto', sans-serif;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.align{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.info{
+  text-align: justify;
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+}
+
+.pic{
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5rem
+  ;
+}
+
+.link{
+  margin-top: 3rem;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.blue{
+  background: rgb(208 225 243);
+  min-height: 3vh;
+  margin: 2rem 25rem;
+}
+
+.bottom{
+  min-height: 3vh;
+  background: rgb(28 69 135);
+  margin: -2rem;
+  padding: 3rem 0 0 0;
+  margin: 3rem 0;
+}
